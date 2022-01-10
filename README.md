@@ -9,3 +9,5 @@ This repository is composed by 2 notebooks and 1 python script:
 -	‘Pwk.py’ is a python script with useful functions. 
 ![image](https://user-images.githubusercontent.com/82883812/148738840-2d4cb3b1-d837-459f-a422-4affecb87b1d.png)
 
+The optimization was performed over only 32 models because of the GPU limitation of my machine (Macbook Pro - M1, 2020)
+
